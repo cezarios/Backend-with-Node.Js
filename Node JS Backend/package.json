@@ -1,0 +1,11 @@
+{
+  "name": "Server Backend",
+  "version": "1.0.0",
+  "description": "This is an easy project for portfolio by Zhassulan Tasbolatov ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zhassulan Tasbolatov",
+  "license": "ISC"
+}
